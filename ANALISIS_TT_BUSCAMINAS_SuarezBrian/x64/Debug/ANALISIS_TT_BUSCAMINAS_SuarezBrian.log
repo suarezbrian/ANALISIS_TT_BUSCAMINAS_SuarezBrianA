@@ -1,0 +1,16 @@
+﻿  Source.cpp
+C:\Users\Suare\Desktop\Image Campus\ANALISIS_TT_BUSCAMINAS_SuarezBrian\ANALISIS_TT_BUSCAMINAS_SuarezBrian\Source.cpp(81): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\Users\Suare\Desktop\Image Campus\ANALISIS_TT_BUSCAMINAS_SuarezBrian\ANALISIS_TT_BUSCAMINAS_SuarezBrian\Source.cpp(83): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Suare\Desktop\Image Campus\ANALISIS_TT_BUSCAMINAS_SuarezBrian\ANALISIS_TT_BUSCAMINAS_SuarezBrian\Source.cpp(122): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Suare\Desktop\Image Campus\ANALISIS_TT_BUSCAMINAS_SuarezBrian\ANALISIS_TT_BUSCAMINAS_SuarezBrian\Source.cpp(130): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Suare\Desktop\Image Campus\ANALISIS_TT_BUSCAMINAS_SuarezBrian\ANALISIS_TT_BUSCAMINAS_SuarezBrian\Source.cpp(164): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Suare\Desktop\Image Campus\ANALISIS_TT_BUSCAMINAS_SuarezBrian\ANALISIS_TT_BUSCAMINAS_SuarezBrian\Source.cpp(172): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Suare\Desktop\Image Campus\ANALISIS_TT_BUSCAMINAS_SuarezBrian\ANALISIS_TT_BUSCAMINAS_SuarezBrian\Source.cpp(186): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Suare\Desktop\Image Campus\ANALISIS_TT_BUSCAMINAS_SuarezBrian\ANALISIS_TT_BUSCAMINAS_SuarezBrian\Source.cpp(194): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Suare\Desktop\Image Campus\ANALISIS_TT_BUSCAMINAS_SuarezBrian\ANALISIS_TT_BUSCAMINAS_SuarezBrian\Source.cpp(210): warning C4244: '=': conversión de 'clock_t' a 'float'; posible pérdida de datos
+C:\Users\Suare\Desktop\Image Campus\ANALISIS_TT_BUSCAMINAS_SuarezBrian\ANALISIS_TT_BUSCAMINAS_SuarezBrian\Source.cpp(266): warning C4244: '=': conversión de 'clock_t' a 'float'; posible pérdida de datos
+C:\Users\Suare\Desktop\Image Campus\ANALISIS_TT_BUSCAMINAS_SuarezBrian\ANALISIS_TT_BUSCAMINAS_SuarezBrian\Source.cpp(302): warning C4244: '=': conversión de 'clock_t' a 'float'; posible pérdida de datos
+C:\Users\Suare\Desktop\Image Campus\ANALISIS_TT_BUSCAMINAS_SuarezBrian\ANALISIS_TT_BUSCAMINAS_SuarezBrian\Source.cpp(315): warning C4244: '=': conversión de 'clock_t' a 'float'; posible pérdida de datos
+C:\Users\Suare\Desktop\Image Campus\ANALISIS_TT_BUSCAMINAS_SuarezBrian\ANALISIS_TT_BUSCAMINAS_SuarezBrian\Source.cpp(1222): warning C4715: 'CharToInt': no todas las rutas de acceso de control devuelven un valor
+C:\Users\Suare\Desktop\Image Campus\ANALISIS_TT_BUSCAMINAS_SuarezBrian\ANALISIS_TT_BUSCAMINAS_SuarezBrian\Source.cpp(734): warning C4715: 'ValidarBuscaMina': no todas las rutas de acceso de control devuelven un valor
+  ANALISIS_TT_BUSCAMINAS_SuarezBrian.vcxproj -> C:\Users\Suare\Desktop\Image Campus\ANALISIS_TT_BUSCAMINAS_SuarezBrian\x64\Debug\ANALISIS_TT_BUSCAMINAS_SuarezBrian.exe
